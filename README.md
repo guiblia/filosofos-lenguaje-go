@@ -1,2 +1,2 @@
-# filosofos-lenguaje-go
-cena de filosofos en lenguaje GO
+# Matriz ordenamiento
+matriz ordenamiento en GO
